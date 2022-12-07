@@ -1,5 +1,5 @@
 <h3>Добро пожаловать в мой профиль GitHub!</h3>
-<p>Я - начинающий front-end разработчик. По образованию инженер в сфере телекоммуникаций, но с недавних пор решила изучать новую для себя сферу - веб-разработка и планирую не останавливаться на достигнутом.</p>
+<p>Я - начинающий front-end разработчик. По образованию инженер в сфере телекоммуникаций, но с недавних пор решила изучать новую для себя сферу - сферу веб-разработки, и планирую не останавливаться на достигнутом.</p>
 <h3>Использую следующие языки программирования и инструменты:</h3>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
